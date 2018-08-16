@@ -1,7 +1,15 @@
 # AndroidStudioPractice
 
 ## Table of Contents
-### [Widgets](#widgets-1)
+### Widgets
+1. [Drawer Navigation]()
+2. [Card View]()
+3. [Recycler View]()
+4. [View Pager]()
+5. [Bottom Navigator]()
+6. [Bottom Sheet]()
+### Others
+1. [Fragment]()
 
 ## Widgets
 ### 1. Drawer Navigation
