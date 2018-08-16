@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/menu_card_view"
+            android:title="CardView"/>
+        <item android:id="@+id/menu_recycler_view"
+            android:title="RecyclerView"/>
+        <item android:id="@+id/menu_view_pager"
+            android:title="ViewPager"/>
+        <item android:id="@+id/menu_bottom_navigator"
+            android:title="BottomNavigator"/>
+        <item android:id="@+id/menu_bottom_sheet"
+            android:title="BottomSheet"/>
+    </group>
+
+</menu>
