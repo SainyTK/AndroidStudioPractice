@@ -6,7 +6,7 @@
 2. [Card View](#2-card-view)
 3. [Recycler View](#3-recycler-view)
 4. [View Pager](#4-view-pager)
-5. [Bottom Navigator]#5-bottom-navigator)
+5. [Bottom Navigator](#5-bottom-navigator)
 6. [Bottom Sheet](#6-bottom-sheet)
 ### Others
 1. [Fragment](#1-fragment)
