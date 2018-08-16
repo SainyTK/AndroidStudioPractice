@@ -31,6 +31,13 @@ dependencies {
 }
 ```
 ### 3. Recycler View
+```
+dependencies {
+  implementation 'com.android.support:recyclerview-v7:27.1.1'
+}
+```
+#### how to
+link : [Medium](https://medium.com/@tanakorn0412/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3-recycler-view-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87-list-%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5-a757535c43fd)
 ### 4. View Pager
 ### 5. Bottom Navigator
 ### 6. Bottom Sheet
