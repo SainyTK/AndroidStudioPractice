@@ -1,7 +1,7 @@
 # AndroidStudioPractice
 
 ## Table of Contents
-### [Widgets](##widgets)
+### [Widgets](#widgets-1)
 
 ## Widgets
 ### 1. Drawer Navigation
