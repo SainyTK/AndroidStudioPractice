@@ -16,6 +16,7 @@ import android.view.MenuItem;
 
 import com.tk.androidstudiopractice.cardview.CardViewFragment;
 import com.tk.androidstudiopractice.recyclerview.RecyclerViewFragment;
+import com.tk.androidstudiopractice.viewpager.ViewPagerFragment;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
@@ -55,7 +56,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 currentFragment = new RecyclerViewFragment();
                 break;
             case R.id.menu_view_pager:
-                Log.d(TAG, "onNavigationItemSelected: " + item.getTitle());
+                currentFragment = new ViewPagerFragment();
                 break;
             case R.id.menu_bottom_navigator:
                 Log.d(TAG, "onNavigationItemSelected: " + item.getTitle());
