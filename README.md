@@ -55,7 +55,7 @@ dependencies {
 }
 ```
 #### how to
-link : [Medium](#)
+link : [Medium](https://developers.ascendcorp.com/bottom-navigation-view-android-support-library-25-0-0-b019e8fb30f7)
 ### 6. Bottom Sheet
 ```
 dependencies {
