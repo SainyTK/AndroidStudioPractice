@@ -64,7 +64,7 @@ dependencies {
 }
 ```
 #### how to
-link : [Medium](#)
+link : [androidhive](https://www.androidhive.info/2017/12/android-working-with-bottom-sheet/)
 
 ## Others
 ### 1. Fragment
