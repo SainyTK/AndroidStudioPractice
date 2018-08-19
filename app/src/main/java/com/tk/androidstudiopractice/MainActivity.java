@@ -14,6 +14,8 @@ import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.MenuItem;
 
+import com.tk.androidstudiopractice.bottomnavigation.BottomNavigationFragment;
+import com.tk.androidstudiopractice.bottomsheet.BottomSheetFragment;
 import com.tk.androidstudiopractice.cardview.CardViewFragment;
 import com.tk.androidstudiopractice.recyclerview.RecyclerViewFragment;
 import com.tk.androidstudiopractice.viewpager.ViewPagerFragment;
@@ -59,11 +61,10 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 currentFragment = new ViewPagerFragment();
                 break;
             case R.id.menu_bottom_navigator:
-                Log.d(TAG, "onNavigationItemSelected: " + item.getTitle());
+                currentFragment = new BottomNavigationFragment();
                 break;
             case R.id.menu_bottom_sheet:
-                Log.d(TAG, "onNavigationItemSelected: " + item.getTitle());
-                break;
+                currentFragment = new BottomSheetFragment();
         }
 
         FragmentTransaction ft = getSupportFragmentManager().beginTransaction();

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/bottom_sheet"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#999"
+    app:layout_behavior="@string/bottom_sheet_behavior"
+    app:behavior_peekHeight="50dp"
+    app:behavior_hideable="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:orientation="vertical">
+        <ImageView
+            android:src="@drawable/ic_bar"
+            android:tint="#fff"
+            android:layout_width="72dp"
+            android:layout_height="48dp" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#888"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/bottomsheet_item_1"
+        android:text="Travel with boat"
+        android:textSize="24sp"
+        android:padding="16dp"
+        android:drawableLeft="@drawable/ic_boat"
+        android:drawablePadding="16dp"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/bottomsheet_item_2"
+        android:text="Travel with bus"
+        android:textSize="24sp"
+        android:padding="16dp"
+        android:drawableLeft="@drawable/ic_bus"
+        android:drawablePadding="16dp"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/bottomsheet_item_3"
+        android:text="Travel with car"
+        android:textSize="24sp"
+        android:padding="16dp"
+        android:drawableLeft="@drawable/ic_car"
+        android:drawablePadding="16dp"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
