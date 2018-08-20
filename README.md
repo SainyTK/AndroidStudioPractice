@@ -67,5 +67,5 @@ dependencies {
 link : [androidhive](https://www.androidhive.info/2017/12/android-working-with-bottom-sheet/)
 
 ## Others
-### 1. Fragment
+### 1. [GoogleMapsAutoCompleteSearch](http://www.ouchangjian.com/question/587a4ce102a8c50b16dcb8c2)
 ### 2. [ButterKnife](http://jakewharton.github.io/butterknife/)
