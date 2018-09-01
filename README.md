@@ -12,3 +12,4 @@
 1. [Fragment](#1-fragment)
 2. [ButterKnife](http://jakewharton.github.io/butterknife/)
 3. [ExpandableRecyclerView](https://bignerdranch.github.io/expandable-recycler-view/)
+4. [Transparent Status Bar](https://medium.com/@tanakorn0412/android-studio-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89-status-bar-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-transparent-8c25e06a16f2)
