@@ -9,7 +9,7 @@
 5. [Bottom Navigator](https://developers.ascendcorp.com/bottom-navigation-view-android-support-library-25-0-0-b019e8fb30f7)
 6. [Bottom Sheet](https://www.androidhive.info/2017/12/android-working-with-bottom-sheet/)
 ### Others
-1. [Fragment](#1-fragment)
+1. [Fragment](https://medium.com/@tanakorn0412/android-studio-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A-fragment-%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2-a42d77b76f58)
 2. [ButterKnife](http://jakewharton.github.io/butterknife/)
 3. [ExpandableRecyclerView](https://bignerdranch.github.io/expandable-recycler-view/)
 4. [Transparent Status Bar](https://medium.com/@tanakorn0412/android-studio-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89-status-bar-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-transparent-8c25e06a16f2)
