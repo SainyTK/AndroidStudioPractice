@@ -16,3 +16,4 @@
 5. [Google Map](https://medium.com/@sutthichai.tm/android-google-map-api-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99-%E0%B8%A0%E0%B8%B2%E0%B8%84-1-5-583763f1bb7f)
 6. [Draw Path Google Map](https://medium.com/@sutthichai.tm/android-google-maps-api-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99-%E0%B8%A0%E0%B8%B2%E0%B8%84-%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9-ff345d1099d3)
 7. [RxJava2](https://medium.com/@nutron/observer-and-observable-205b7f5b03f1)
+8. [Room Database Migration](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
