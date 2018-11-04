@@ -21,3 +21,4 @@
 10. [Reading JSON File](https://medium.com/@tanakorn0412/android-studio-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C-json-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B8%B3%E0%B8%A1%E0%B8%B2%E0%B9%83%E0%B8%8A%E0%B9%89-a79092526cf1)
 11. [Gson Kotlin](http://kotlination.com/kotlin/kotlin-convert-object-to-from-json-gson)
 12. [YouTubePlayer](https://www.youtube.com/watch?v=W4hTJybfU7s)
+13. [MultipleYoutubePlayerInOneActivity](https://androidtutorialmagic.wordpress.com/my-mini-project/multiple-youtube-video-in-recyclerviewlistview-in-android/)
