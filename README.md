@@ -22,3 +22,4 @@
 11. [Gson Kotlin](http://kotlination.com/kotlin/kotlin-convert-object-to-from-json-gson)
 12. [YouTubePlayer](https://www.youtube.com/watch?v=W4hTJybfU7s)
 13. [MultipleYoutubePlayerInOneActivity](https://androidtutorialmagic.wordpress.com/my-mini-project/multiple-youtube-video-in-recyclerviewlistview-in-android/)
+14. [Multiple Screnn Size](https://stackoverflow.com/questions/32860815/how-to-define-dimens-xml-for-every-different-screen-size-in-android)
